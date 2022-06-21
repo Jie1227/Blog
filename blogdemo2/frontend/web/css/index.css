@@ -1,0 +1,25 @@
+body{
+    background: #f3f7f9;
+}
+
+.breadcrumb,.post,.bg-info{
+    background: white;
+}
+
+.post{
+    padding: 2px 12px 15px 15px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 2px 4px 4px rgba(246, 245, 245, 0.6);
+}
+.bg-info{
+    padding: 10px 15px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    box-shadow: 2px 4px 4px rgba(246, 245, 245, 0.6);
+}
+
+.nav{
+    display: flex;
+    justify-content: flex-end;
+}

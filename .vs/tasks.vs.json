@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "任务-blogdemo2",
+      "appliesTo": "blogdemo2/",
+      "type": "launch"
+    }
+  ]
+}
